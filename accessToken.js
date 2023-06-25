@@ -1,3 +1,4 @@
+//Java script code made by Bud3699
 const clientId = 'CLIENT-ID';
 const clientSecret = 'CLIENT-SECRET';
 const tokenEndpoint = 'https://accounts.spotify.com/api/token';
