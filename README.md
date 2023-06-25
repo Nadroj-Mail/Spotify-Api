@@ -34,3 +34,5 @@ A spotify artist id is the base-62 identifier found at the end of the Spotify UR
 Once the program has been apended run it and it should provide info on the artist in a JSON file format, eg:
 
 ![image](https://github.com/Death-Coffin/Spotify-Api/assets/129228615/e3457fa8-347a-4dda-88df-4a6b9eb08077)
+
+**More infomation on the docs can be found** [here](https://developer.spotify.com/documentation/web-api)
